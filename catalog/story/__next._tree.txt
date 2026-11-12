@@ -1,0 +1,5 @@
+:HL["/doran-studio-web/_next/static/chunks/37rusah56wnvb.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"story","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"catalog","h":96,"c":"$Q2"}]]
+0:{"b":"KWMz43Oi-sNnt_WMdybb8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
